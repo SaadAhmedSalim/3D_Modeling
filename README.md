@@ -18,6 +18,9 @@ I will Upload FLoor Planning (Computer tabla and Chair), Camera, Bottle, Mug, Ti
 
 ## 3D MUG
 
+**Solid**
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/MUG/3d%20modeling_MUG.jpg>
+
 **Layout**
 
 <img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/MUG/3d%20modeling_MUG_2dwireframe.jpg>
