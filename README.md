@@ -15,3 +15,13 @@ I will Upload FLoor Planning (Computer tabla and Chair), Camera, Bottle, Mug, Ti
 <img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Floor%20Planing/computerwithchair.JPG>
 
 -----------------------------------------------------------
+
+## 3D MUG
+
+**Layout**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/MUG/3d%20modeling_MUG_2dwireframe.jpg>
+
+**Module**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/MUG/3d%20modeling_MUG_module.jpg>
