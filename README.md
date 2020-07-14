@@ -28,3 +28,20 @@ I will Upload FLoor Planning (Computer tabla and Chair), Camera, Bottle, Mug, Ti
 **Module**
 
 <img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/MUG/3d%20modeling_MUG_module.jpg>
+
+------------------------------------------------------------------------------------------------
+
+## 3D Coca Cola Bottle Designed from 2D sketch 
+
+**2D Sketch**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Coca%20cola%20Bottle/Coke%20bottle%202d%20sketch.jpg>
+
+
+**Module**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Coca%20cola%20Bottle/Coke%20bottle.jpg>
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Coca%20cola%20Bottle/Coke%20bottle_red.jpg>
+
+-------------------------------------------------------------------------------------------
