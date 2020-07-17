@@ -51,3 +51,16 @@ I will Upload FLoor Planning (Computer tabla and Chair), Camera, Bottle, Mug, Ti
 <img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/IPhone/Iphone.png>
 
 ----------------------------------------------------------------------------------------
+
+## Camera Design
+
+**Template**
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Camera/2d%20module%20for%20camera.JPG>
+
+**Module Sketch**
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Camera/module2.JPG>
+
+**Colored Complete**
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Camera/coloredmodule.JPG>
+
+-------------------------------------------------------------------------------------------
