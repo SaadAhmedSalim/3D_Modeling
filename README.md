@@ -64,3 +64,23 @@ I will Upload FLoor Planning (Computer tabla and Chair), Camera, Bottle, Mug, Ti
 <img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Camera/coloredmodule.JPG>
 
 -------------------------------------------------------------------------------------------
+
+## 3D Tire Design
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Tire/complete_tire.png>
+
+**Layout**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Tire/Wheel%20rim%20with%20tire.png>
+
+**Part by part**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Tire/wheel%20rim%20part%201.JPG>
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Tire/Wheel%20rim%20part%202.png>
+
+**Module**
+
+<img src=https://github.com/SaadAhmedSalim/3D_Modeling/blob/master/Tire/complete_tire1.png>
+
+--------------------------------------------------------------------------------------
